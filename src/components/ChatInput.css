@@ -1,0 +1,29 @@
+.send-button {
+  background-color: #3964fe;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+  .chat-input {
+    /* background-color: #e4f1f0; */
+  border: solid #839ced;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border-width: 1px;
+  font-size: 15px;
+  flex-grow: 1;
+}
+
+/* .chat-input::placeholder{
+  color: #3964fe;
+} */
+
+.chat-input-container {
+  display: flex;
+  margin-bottom: 60px;
+}

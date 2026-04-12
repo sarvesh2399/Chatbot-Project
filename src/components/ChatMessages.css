@@ -1,0 +1,22 @@
+.chat-messages-container {
+  flex-grow: 1;
+  margin-top: 20px;
+  overflow: scroll;
+  scrollbar-width: none;
+}
+
+.welcome-message{
+  
+  color: rgb(120, 120, 120);
+}
+
+.welcome-logo{
+  width: 50px;
+  margin-right: 10px;
+}
+
+.welcome-message-container{
+margin-top: 0px;
+  display: flex;
+  justify-content: center;
+}
