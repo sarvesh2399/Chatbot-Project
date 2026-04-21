@@ -47,7 +47,7 @@ You can use it directly by clicking the link in the repository description.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chatbot-project.git
+git clone https://github.com/sarvesh2399/chatbot-project.git
 ```
 
 2. Go to the project folder
